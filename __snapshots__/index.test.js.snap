@@ -1,0 +1,156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Assets should have buttons with view on map and view signals 1`] = `
+<div>
+  <h1
+    class="text-center mt-3"
+  >
+    ASSETS
+  </h1>
+  <div
+    class="row card-group"
+  >
+    <div
+      class="col-sm-4 g-5"
+    >
+      <div
+        class="card"
+      >
+        <div
+          class="card-body"
+        >
+          <div
+            class="text-success card-title"
+          >
+            <h4>
+              UW Beznau
+            </h4>
+          </div>
+          <p
+            class="card-text"
+          >
+            Longitude:
+            8.2338560914
+          </p>
+          <p
+            class="card-text"
+          >
+            Latitude:
+            47.5568277613
+          </p>
+          <div
+            class="d-flex justify-content-between"
+          >
+            <button
+              class="btn btn-secondary"
+              type="button"
+            >
+              View on Map 🗺
+            </button>
+            <button
+              class="btn-danger btn btn-secondary"
+              type="button"
+            >
+              View Signals 📡
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-sm-4 g-5"
+    >
+      <div
+        class="card"
+      >
+        <div
+          class="card-body"
+        >
+          <div
+            class="text-success card-title"
+          >
+            <h4>
+              UW Grynau
+            </h4>
+          </div>
+          <p
+            class="card-text"
+          >
+            Longitude:
+            8.9728980141
+          </p>
+          <p
+            class="card-text"
+          >
+            Latitude:
+            47.219215463
+          </p>
+          <div
+            class="d-flex justify-content-between"
+          >
+            <button
+              class="btn btn-secondary"
+              type="button"
+            >
+              View on Map 🗺
+            </button>
+            <button
+              class="btn-danger btn btn-secondary"
+              type="button"
+            >
+              View Signals 📡
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-sm-4 g-5"
+    >
+      <div
+        class="card"
+      >
+        <div
+          class="card-body"
+        >
+          <div
+            class="text-success card-title"
+          >
+            <h4>
+              UW Winkeln
+            </h4>
+          </div>
+          <p
+            class="card-text"
+          >
+            Longitude:
+            9.3026581653
+          </p>
+          <p
+            class="card-text"
+          >
+            Latitude:
+            47.397979458
+          </p>
+          <div
+            class="d-flex justify-content-between"
+          >
+            <button
+              class="btn btn-secondary"
+              type="button"
+            >
+              View on Map 🗺
+            </button>
+            <button
+              class="btn-danger btn btn-secondary"
+              type="button"
+            >
+              View Signals 📡
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
