@@ -51,6 +51,10 @@ This project using dummy data, and show them in `HighCharts` library time series
 - Data dumps contained in this repository:
   assets <-> signals <-> time series
 
+- When starting to create project I used `apexcharts` library.It use SVG rather than Canvas. But I have more than 4000 data.I faced performance issue since I have big data.
+  See the issue here (https://github.com/apexcharts/apexcharts.js/issues/214). Then I changed my library which is have more flexibility and performance to (https://www.highcharts.com/)
+- I have data in `csv` format instead of `json` in measurement. To convert csv format to json format, I made some changes on `next.config.js`.
+
 ## :sparkles: Features
 
 :heavy_check_mark: Selection(s) for Assets and Signals
